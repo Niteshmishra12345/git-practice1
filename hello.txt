@@ -1,2 +1,4 @@
 Hello Git 
 This is my frist Git practice
+Learning Git step by step
+second line added
